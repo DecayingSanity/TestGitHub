@@ -11,3 +11,7 @@ i = 2
 while i < 257:
     print(i)
     i **= 2
+
+"""
+TEST VERZOVANI 
+"""
